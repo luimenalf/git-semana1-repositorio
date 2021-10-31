@@ -1,0 +1,1 @@
+# Se crea un archivo llamado doc3.txt que contiene otras lineas
